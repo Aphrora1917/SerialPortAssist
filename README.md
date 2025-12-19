@@ -4,7 +4,7 @@
 
 ## 作者
 
-[Aphrora1917 (zzh)](https://github.com/Aphrora1917)
+https://github.com/Aphrora1917/SerialPortAssist/settings
 
 
 
@@ -22,13 +22,13 @@ Qt版本：6.7.0
 4. HEX模式发送时可追加CRC-16与CRC-32校验值
 5. 发送与接收日志显示
 
-![界面总览](./serial_port_assist_overview.png "界面总览")
+![界面总览](./assets/serial_port_assist_overview.png "界面总览")
 
 
 
 ## 串口设置
 
-![串口设置](./serial_port_settings.gif "串口设置")
+![串口设置](./assets/serial_port_settings.gif "串口设置")
 
 
 
@@ -39,13 +39,13 @@ Qt版本：6.7.0
 
 **VSPD 和 Modbus Slave 配置：**
 
-![Modbus Slave配置](./test_environment.png "Modbus Slave配置")
+![Modbus Slave配置](./assets/test_environment.png "Modbus Slave配置")
 
 
 
 **发送实况：**
 
-![发送测试](./send_test.gif "发送测试")
+![发送测试](./assets/send_test.gif "发送测试")
 
 
 
