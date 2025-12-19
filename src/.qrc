@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/wrench.png</file>
+    </qresource>
+</RCC>
